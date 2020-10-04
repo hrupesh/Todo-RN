@@ -8,9 +8,7 @@ export default function TodoScreen() {
       <View style={styles.header}>
         <Text style={styles.headerText}>Todo's</Text>
       </View>
-      <Icon.Button name="facebook" backgroundColor="#3b5998">
-        Login with Facebook
-      </Icon.Button>
+      <Text>Todo Item Here [Flatlist]</Text>
     </>
   );
 }
