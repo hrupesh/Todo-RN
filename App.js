@@ -1,5 +1,5 @@
 import React from 'react';
-import {SafeAreaView, StatusBar} from 'react-native';
+import {SafeAreaView} from 'react-native';
 import TodoScreen from './app/TodoScreen';
 
 export default function App() {
