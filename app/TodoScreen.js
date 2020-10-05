@@ -4,12 +4,9 @@ import Icon from 'react-native-vector-icons';
 
 export default function TodoScreen() {
   return (
-    <>
       <View style={styles.header}>
         <Text style={styles.headerText}>Todo's</Text>
       </View>
-      <Text>Todo Item Here [Flatlist]</Text>
-    </>
   );
 }
 
